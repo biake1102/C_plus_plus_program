@@ -1,6 +1,7 @@
 #include<iostream>
 #include<cmath>
 using namespace std;
+//16進制轉10進制
 int main(){
     string a;
     int ans=0;

@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+//整數的四則運算
 int main(){
     int a,b;
     char c;

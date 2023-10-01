@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+//判段成績等級
 int main(){
     int a;
     cin >> a;

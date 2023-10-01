@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+//7進制轉10進制
 int main(){
     int a,b,ans=0;
     cin >> a;

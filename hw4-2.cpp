@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+//判斷三角形
 int main(){
     int a,b,c;
     cin >> a >> b >> c;

@@ -1,6 +1,7 @@
 #include<iostream>
 #include<string>
 using namespace std;
+//英文小寫轉大寫
 int main(){
     string a;
     cin >> a;

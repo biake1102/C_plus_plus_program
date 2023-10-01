@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+//N階乘
 int main(){
     int N,a=1;
     cin >> N;

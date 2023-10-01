@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//攝氏轉華氏
 int main(){
     int a;
     cin >> a;

@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+//三數由小到大排列
 int main(){
     int a,b,c;
     cin >> a >> b >> c;
