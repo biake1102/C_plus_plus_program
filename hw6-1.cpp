@@ -11,10 +11,15 @@ bool prime(int num) {
 int main() {
     int n = 0;
     cin >> n;
-    if (prime(n)) {
+    if(n==1){
+        cout << "No" << endl;
+    }    
+    else if (prime(n)) {
         cout << "Yes" << endl;
     }
     else {
         cout << "No" << endl;
     }
+    
+    
 }
